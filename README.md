@@ -3,7 +3,7 @@ My name is Adrian.<br>
 Im a 22yo Computer Engineering student.<br>
 I love to learn new things and being improving constantly.<br>
 
-My current skills are:
+My current skills are:<br>
 -C, <br>
 -HTML and CSS, <br>
 -Mounting hardware, <br>
