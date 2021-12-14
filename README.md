@@ -1,26 +1,26 @@
 ### Hi there 👋
 Mi nombre es Adrian.<br>
-Soy un estudiante de 1º de DAM<br>
+Soy un estudiante de 1º de DAM.<br>
 
-🧠 Skills:
+🧠 Skills:<br>
 ▪️ Proactividad y Aprendizaje continuo.<br>
 ▪️ Creatividad.<br>
 ▪️ Compromiso y pensamiento crítico.<br>
 ▪️ Trabajo en equipo.<br>
 
-🚀 Tecnologías:
-📌HTML y CSS.
-📌Lenguaje C
-📌MySQL
-📌Git
+🚀 Tecnologías:<br>
+📌HTML y CSS.<br>
+📌Lenguaje C.<br>
+📌MySQL.<br>
+📌Git.<br>
 
-⚡Intereses personales:
-🌟 En mi tiempo libre, además de formarme en diseño UX/UI, también me gusta aprender creando nuevos proyectos y doy alguna que otra charla
+⚡Intereses personales:<br>
+🌟 En mi tiempo libre, suelo pasar mi tiempo inmerso en los juegos, además de ver series y anime.<br>
 
-🌟 Canalizo mi creatividad en la cocina 👩‍🍳 haciendo recetas, también delante del espejo creando makeups 💄 que subo a instagram, aprendiendo a tocar nuevos instrumentos 🎸 y creando contenido en mi blog para la comunidad Tech.
+🌟 Canalizo mi creatividad en la cocina haciendo recetas además de escribiendo algún que otro texto.<br>
 
-🌟 Me apasionan los gatos 🐱, una de mis series favoritas es Clone Wars, sigo los movimientos #realfooding 🥑, #bulletJournal 📓, #zerowaste y me suelo cambiar el color del pelo a menudo, por ahí me llaman #pelopantone.
-
+🌟 Me apasionan los gatos, algunas de mis series favoritas son Castle o The Big Bang Theory, además de completo fan de Marvel, Harry Potter, El Señor de
+de los Anillos y Star Wars.
 
 <!--
 **naxxomme/naxxomme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
