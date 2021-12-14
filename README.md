@@ -1,7 +1,7 @@
 ### Hi there 👋
-My name is Adrian
-Im a 22yo Computer Engineering student.
-I love to learn new things and being improving constantly.
+My name is Adrian.<br>
+Im a 22yo Computer Engineering student.<br>
+I love to learn new things and being improving constantly.<br>
 
 My current skills are C, HTML, CSS, and a little bit of Git and MySQL.
 
