@@ -3,7 +3,11 @@ My name is Adrian.<br>
 Im a 22yo Computer Engineering student.<br>
 I love to learn new things and being improving constantly.<br>
 
-My current skills are C, HTML, CSS, and a little bit of Git and MySQL.
+My current skills are:
+-C, 
+-HTML and CSS, 
+-Mounting hardware.
+-A little bit of Git and MySQL.
 
 <!--
 **naxxomme/naxxomme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
