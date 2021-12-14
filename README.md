@@ -1,19 +1,19 @@
 ### Hi there 👋
 Mi nombre es Adrian.<br>
 Soy un estudiante de 1º de DAM.<br>
-
+<br>
 🧠 Skills:<br>
 ▪️ Proactividad y Aprendizaje continuo.<br>
 ▪️ Creatividad.<br>
 ▪️ Compromiso y pensamiento crítico.<br>
 ▪️ Trabajo en equipo.<br>
-
+<br>
 🚀 Tecnologías:<br>
 📌HTML y CSS.<br>
 📌Lenguaje C.<br>
 📌MySQL.<br>
 📌Git.<br>
-
+<br>
 ⚡Intereses personales:<br>
 🌟 En mi tiempo libre, suelo pasar mi tiempo inmerso en los juegos, además de ver series y anime.<br>
 
