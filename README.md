@@ -4,9 +4,9 @@ Im a 22yo Computer Engineering student.<br>
 I love to learn new things and being improving constantly.<br>
 
 My current skills are:
--C, 
--HTML and CSS, 
--Mounting hardware.
+-C, <br>
+-HTML and CSS, <br>
+-Mounting hardware, <br>
 -A little bit of Git and MySQL.
 
 <!--
