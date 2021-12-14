@@ -1,13 +1,26 @@
 ### Hi there 👋
-My name is Adrian.<br>
-Im a 22yo Computer Engineering student.<br>
-I love to learn new things and being improving constantly.<br>
+Mi nombre es Adrian.<br>
+Soy un estudiante de 1º de DAM<br>
 
-My current skills are:<br>
--C, <br>
--HTML and CSS, <br>
--Mounting hardware, <br>
--A little bit of Git and MySQL.
+🧠 Skills:
+▪️ Proactividad y Aprendizaje continuo.<br>
+▪️ Creatividad.<br>
+▪️ Compromiso y pensamiento crítico.<br>
+▪️ Trabajo en equipo.<br>
+
+🚀 Tecnologías:
+📌HTML y CSS.
+📌Lenguaje C
+📌MySQL
+📌Git
+
+⚡Intereses personales:
+🌟 En mi tiempo libre, además de formarme en diseño UX/UI, también me gusta aprender creando nuevos proyectos y doy alguna que otra charla
+
+🌟 Canalizo mi creatividad en la cocina 👩‍🍳 haciendo recetas, también delante del espejo creando makeups 💄 que subo a instagram, aprendiendo a tocar nuevos instrumentos 🎸 y creando contenido en mi blog para la comunidad Tech.
+
+🌟 Me apasionan los gatos 🐱, una de mis series favoritas es Clone Wars, sigo los movimientos #realfooding 🥑, #bulletJournal 📓, #zerowaste y me suelo cambiar el color del pelo a menudo, por ahí me llaman #pelopantone.
+
 
 <!--
 **naxxomme/naxxomme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
