@@ -9,14 +9,9 @@ Soy un estudiante de 1º de DAM.<br>
 ▪️ Trabajo en equipo.<br>
 <br>
 🚀 Tecnologías:<br>
-📌Lenguaje C.<br>
 📌Java.<br>
 📌MySQL.<br>
-📌Git.<br>
-📌UML.<br>
-📌Bash.<br>
 📌HTML y CSS.<br>
-📌XML.<br>
 <br>
 ⚡Intereses personales:<br>
 🌟 En mi tiempo libre, suelo pasar mi tiempo inmerso en los juegos, además de ver series y anime.<br>
