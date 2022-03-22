@@ -14,9 +14,9 @@ Soy un estudiante de 1º de DAM.<br>
 📌HTML y CSS.<br>
 <br>
 ⚡Intereses personales:<br>
-🌟 En mi tiempo libre, suelo pasar mi tiempo inmerso en los juegos, además de ver series y anime.<br>
+🌟 Me encantan el mundo de los videojuegos y el anime.<br>
 
-🌟 Canalizo mi creatividad en la cocina haciendo recetas además de escribiendo algún que otro texto.<br>
+🌟 Tiendo a viajar mucho para conocer de otros países y sus culturas.<br>
 
 🌟 Me apasionan los gatos, algunas de mis series favoritas son Castle o The Big Bang Theory, además de completo fan de Marvel, Harry Potter, El Señor de
 de los Anillos y Star Wars.
