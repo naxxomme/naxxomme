@@ -11,7 +11,8 @@ Soy un estudiante de 1º de DAM.<br>
 🚀 Tecnologías:<br>
 📌Java.<br>
 📌MySQL.<br>
-📌HTML y CSS.<br>
+📌HTML5.<br>
+📌CSS3.<br>
 <br>
 ⚡Intereses personales:<br>
 🌟 Me encantan el mundo de los videojuegos y el anime.<br>
