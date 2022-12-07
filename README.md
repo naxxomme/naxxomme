@@ -18,7 +18,7 @@ Soy un estudiante de 1º de DAM.<br>
 
 🌟 Tiendo a viajar mucho para conocer de otros países y sus culturas.<br>
 
-🌟 Me apasionan los gatos, algunas de mis series favoritas son Castle o The Big Bang Theory, además de completo fan de Marvel, Harry Potter, El Señor de
+🌟 Me apasionan los gatos, además de completo fan de Marvel, Harry Potter, El Señor de
 de los Anillos y Star Wars.
 
 <!--
