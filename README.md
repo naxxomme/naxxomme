@@ -1,6 +1,5 @@
 ### Hi there 👋
 Mi nombre es Adrian.<br>
-Soy un estudiante de 1º de DAM.<br>
 <br>
 🧠 Skills:<br>
 ▪️ Proactividad y Aprendizaje continuo.<br>
