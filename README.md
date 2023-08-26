@@ -9,6 +9,12 @@ Mi nombre es Adrian.<br>
 <br>
 🚀 Tecnologías:<br>
 📌Java.<br>
+📌Python.<br>
+📌Power BI.<br>
+📌Matplotlib.<br>
+📌NumPy.<br>
+📌Pandas.<br>
+📌Machine and Deep Learning.<br>
 📌MySQL.<br>
 📌HTML5.<br>
 📌CSS3.<br>
