@@ -8,14 +8,14 @@ Mi nombre es Adrian.<br>
 ▪️ Trabajo en equipo.<br>
 <br>
 🚀 Tecnologías:<br>
-📌Java.<br>
 📌Python.<br>
+📌MySQL.<br>
+
 📌Power BI.<br>
 📌Matplotlib.<br>
 📌NumPy.<br>
 📌Pandas.<br>
 📌Machine and Deep Learning.<br>
-📌MySQL.<br>
 📌HTML5.<br>
 📌CSS3.<br>
 <br>
