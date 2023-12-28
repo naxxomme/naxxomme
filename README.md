@@ -8,18 +8,19 @@ Mi nombre es Adrian.<br>
 ▪️ Trabajo en equipo.<br>
 <br>
 🚀 Tecnologías:<br>
-📌Python.<br>
-📌MySQL.<br>
+▪️Python.<br>
+▪️MySQL.<br>
 
-📌Power BI.<br>
-📌Matplotlib.<br>
-📌NumPy.<br>
-📌Pandas.<br>
-📌Machine and Deep Learning.<br>
-📌HTML5.<br>
-📌CSS3.<br>
+▪️Power BI.<br>
+▪️Matplotlib.<br>
+▪️NumPy.<br>
+▪️Pandas.<br>
+▪️Deep Learning.<br>
+▪️HTML5.<br>
+▪️CSS3.<br>
 <br>
 ⚡Intereses personales:<br>
+
 🌟 Me encantan el mundo de los videojuegos y el anime.<br>
 
 🌟 Tiendo a viajar mucho para conocer de otros países y sus culturas.<br>
