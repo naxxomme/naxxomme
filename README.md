@@ -8,6 +8,7 @@ Mi nombre es Adrian.<br>
 ▪️ Trabajo en equipo.<br>
 <br>
 🚀 Tecnologías:<br>
+▪️Git.<br>
 ▪️Python.<br>
 ▪️MySQL.<br>
 
