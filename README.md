@@ -1,5 +1,5 @@
-### Hi there 👋
-Mi nombre es Adrian.<br>
+# Hola, mi nombre es Adrián Arroyo 👋
+Data Scientist & Data Analyst<br>
 <br>
 🧠 Skills:<br>
 ▪️ Proactividad y Aprendizaje continuo.<br>
@@ -8,18 +8,19 @@ Mi nombre es Adrian.<br>
 ▪️ Trabajo en equipo.<br>
 <br>
 🚀 Tecnologías:<br>
-▪️Git.<br>
-▪️GitHub.<br>
-▪️Python.<br>
-▪️MySQL.<br>
+<br>
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()<br>
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()<br>
+[![Power_Bi](https://img.shields.io/badge/Power_Bi-999999?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=101010)]()
 
-▪️Power BI.<br>
+📫 Librerías:<br>
+<br>
 ▪️Matplotlib.<br>
 ▪️NumPy.<br>
 ▪️Pandas.<br>
 ▪️Deep Learning.<br>
-▪️HTML5.<br>
-▪️CSS3.<br>
 <br>
 ⚡Intereses personales:<br>
 
